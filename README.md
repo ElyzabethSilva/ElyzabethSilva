@@ -6,7 +6,6 @@
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: **Ela/Dela | She/Her**
 - 📫 How to reach me: **[E-mail](mailto:elyzabeth.alves@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elyzabethsilva)**
-- ⚡ Fun fact: ...
 
 ##
 <div>
