@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with **.NET C#**
 - 🌱 I’m currently learning about **Python** 
-- 👯 I’m looking to collaborate on **[Medium](https://medium.com/@elyzabethsilva)**
+- 📝 I’m trying to collaborate on **[Medium](https://medium.com/@elyzabethsilva)**
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: **Ela/Dela | She/Her**
 - 📫 How to reach me: **[E-mail](mailto:elyzabeth.alves@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elyzabethsilva)**
@@ -10,7 +10,7 @@
 ##
 <div>
   <a href="https://github.com/ElyzabethSilva">
-  <img height="180em" src="https://github-readme-stats-omega-five-67.vercel.app/api?username=ElyzabethSilva&show_icons=true&theme=dark&include_all_commits=tru&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-omega-five-67.vercel.app/api?username=ElyzabethSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-omega-five-67.vercel.app/api/top-langs/?username=ElyzabethSilva&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
