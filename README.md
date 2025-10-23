@@ -43,10 +43,3 @@ Sempre em busca de novos desafios e aprendizados! 🚀
 
 
 💌 Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou carreira, será um prazer conversar! 😊
-
----
-
-### 📊 Estatísticas  
-
-![Lyz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elyzabethsilva&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyzabethsilva&layout=compact&theme=tokyonight)
